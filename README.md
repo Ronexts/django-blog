@@ -2,7 +2,7 @@
 
 include full access django blog Framework
 
-all content in this repo are tutorial based from djangogirls
-you can check how to upload it to web from tutorial.djangogirl.org
+all content in this repo are tutorial based from djangogirls,
+you can check how to upload it to web from tutorial.djangogirls.org
 
 maybe will improve with my own style soon
